@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/haxball-nerds-page/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/haxball-nerds-page/static/js/main.3a844a7b.chunk.js",
+    "main.js.map": "/haxball-nerds-page/static/js/main.3a844a7b.chunk.js.map",
+    "runtime-main.js": "/haxball-nerds-page/static/js/runtime-main.3e387bcf.js",
+    "runtime-main.js.map": "/haxball-nerds-page/static/js/runtime-main.3e387bcf.js.map",
+    "static/js/2.287f3e86.chunk.js": "/haxball-nerds-page/static/js/2.287f3e86.chunk.js",
+    "static/js/2.287f3e86.chunk.js.map": "/haxball-nerds-page/static/js/2.287f3e86.chunk.js.map",
+    "static/js/3.eee00878.chunk.js": "/haxball-nerds-page/static/js/3.eee00878.chunk.js",
+    "static/js/3.eee00878.chunk.js.map": "/haxball-nerds-page/static/js/3.eee00878.chunk.js.map",
+    "index.html": "/haxball-nerds-page/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/haxball-nerds-page/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.287f3e86.chunk.js.LICENSE.txt": "/haxball-nerds-page/static/js/2.287f3e86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e387bcf.js",
+    "static/js/2.287f3e86.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3a844a7b.chunk.js"
+  ]
+}
